@@ -2,4 +2,4 @@ export default function greet(neighbourName){
     return "Hello, " + neighbourName;
     }
     
-    console.log(greet('Janine'));
+    console.log(greet('Zweli'));
